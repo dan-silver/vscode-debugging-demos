@@ -24,5 +24,7 @@
 
 ## If there's time at the end:
 Other VS Code tricks:
+* Copy with syntax highlighting
+    * https://github.com/Microsoft/vscode/issues/21820
 * Hide files from sidebar (.vscode/settings.json then files.exclude)
 * Insiders version - is it stable? benefits?
