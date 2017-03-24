@@ -1,1 +1,0 @@
-document.body.classList.add("yahoo_chrome_newtab_ext_installed");
