@@ -1,1 +1,4 @@
 **/node_modules/*
+**/_diagnosticTraces/*
+**/*.js.map
+3-debugging-other-langs/app.js
