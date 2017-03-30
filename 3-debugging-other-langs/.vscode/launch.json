@@ -10,6 +10,7 @@
             "name": "Launch Program",
             "program": "${file}",
             "outFiles": [],
+            "windows": { "runtimeExecutable": "nvs.cmd" },
             "preLaunchTask": "tsc"
         },
         {

@@ -4,6 +4,7 @@
         {
             "type": "node",
             "request": "launch",
+            "windows": { "runtimeExecutable": "nvs.cmd" },
             "name": "Server",
             "program": "${workspaceRoot}/server.js",
             "cwd": "${workspaceRoot}"
@@ -12,6 +13,7 @@
             "type": "node",
             "request": "launch",
             "name": "Client",
+            "windows": { "runtimeExecutable": "nvs.cmd" },
             "program": "${workspaceRoot}/client.js",
             "cwd": "${workspaceRoot}"
         }
