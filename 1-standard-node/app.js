@@ -1,3 +1,5 @@
+'use strict';
+
 // set breakpoint either with 'debugger' or in gutter 
 
 // setInterval(() => {
