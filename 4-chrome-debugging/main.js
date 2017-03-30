@@ -1,6 +1,6 @@
 console.log("hello, world")
 
-
+// close chrome before launching debug
 
 function save() {
     debugger;
