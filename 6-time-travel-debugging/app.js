@@ -1,5 +1,7 @@
 // intro - node version switcher (nvs)
 
+// first use "launch" config
+
 // node --record app.js
 
 let i=0;
